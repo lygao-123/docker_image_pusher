@@ -1,4 +1,4 @@
-bellsoft/liberica-openjre-debian:17.0.14-x86_64
+bellsoft/liberica-openjre-centos:17.0.11
 mysql:8.3.0
 redis:7.2.4
 rabbitmq:3.13.2-management
