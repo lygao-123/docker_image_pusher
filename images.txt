@@ -7,3 +7,4 @@
 #nacos/nacos-server:v2.4.1-slim
 #emqx/emqx:5.6.1
 postgres:16.9
+
