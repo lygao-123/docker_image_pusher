@@ -11,4 +11,5 @@
 #node:22-alpine
 #redis:7.4.9
 #nacos/nacos-server:v2.4.1
-bellsoft/liberica-native-image-kit:17.0.11
+golang:1.21-alpine
+alpine:3.20
