@@ -14,3 +14,4 @@
 #golang:1.21-alpine
 #alpine:3.20
 golang:1.22-bookworm
+onlyoffice/documentserver:9.4.0
